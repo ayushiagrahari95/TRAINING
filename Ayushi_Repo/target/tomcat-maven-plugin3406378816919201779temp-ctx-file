@@ -1,0 +1,5 @@
+<Context path="/alfresco" reloadable="false" backgroundProcessorDelay="-1">
+  <Resources className="org.apache.naming.resources.VirtualDirContext" extraResourcePaths="/=/home/ayushiagrahari95/workspace/Ayushi_Repo/target/amp/web,/home/ayushiagrahari95/workspace/Ayushi_Repo/target/amp-war"/>
+  <Loader searchVirtualFirst="true" className="org.apache.catalina.loader.VirtualWebappLoader" virtualClasspath="/home/ayushiagrahari95/workspace/Ayushi_Repo/target/classes;/home/ayushiagrahari95/workspace/Ayushi_Repo/target/amp/config;/home/ayushiagrahari95/workspace/Ayushi_Repo/target/test-classes"/>
+  <JarScanner scanAllDirectories="true"/>
+</Context>

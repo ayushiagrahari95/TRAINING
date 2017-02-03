@@ -1,0 +1,6 @@
+#FileLock
+#Fri Feb 03 00:03:58 PST 2017
+hostName=ubuntu
+id=15a030055bd95951a947ae58fa8cd079c9b217e8b29
+method=file
+server=127.0.1.1\:41623

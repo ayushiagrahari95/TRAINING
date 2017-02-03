@@ -1,0 +1,11 @@
+00:00:28,712 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+00:00:28,720 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+00:00:28,720 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+00:00:28,731 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+00:00:32,704 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 369 Web Scripts (+0 failed), 383 URLs
+00:00:32,704 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 8 Package Description Documents (+0 failed) 
+00:00:32,704 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 0 Schema Description Documents (+0 failed) 
+00:00:32,802 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] Initialised Spring Surf Container Web Script Container (in 4043.038ms)
+00:00:32,805 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+00:00:32,808 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+00:00:32,939 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] Locale name in faces-config.xml null or empty, setting locale to default locale : en_US
